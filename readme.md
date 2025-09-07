@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Taha Ceyhan
+# Hi there 👋 I'm Taha 
 
 💻 **Software Developer** | Passionate about building scalable, user-oriented applications  
 📍 Based in Istanbul | 🌱 Continuously learning and growing in backend and full-stack development  
